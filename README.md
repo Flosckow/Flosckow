@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Flosckow
-- 👀 I’m interested in web, web security 
-- 🌱 I’m currently learning FastApi, and more))
-- 💞️ I’m looking to collaborate on my friend
+- Hi, I’m @Flosckow
+
 
 
 <!---
